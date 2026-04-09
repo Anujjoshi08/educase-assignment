@@ -5,7 +5,7 @@ const navButtonBase = "rounded-md w-full h-[46px] mb-[10px] font-medium flex ite
 
 export function Home() {
   return (
-    <div className="min-h-screen bg-body flex items-end p-5">
+    <div className="min-h-screen bg-body flex items-end p-5 md:items-center">
       <div className="w-full">
         <Heading content="Welcome to PopX" />
         <p className="mt-2 mb-7 text-[18px] leading-6.5 text-primary/60 pr-6">Lorem ipsum dolor sit amet,<br /> consectetur adipiscing elit.</p>

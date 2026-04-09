@@ -21,6 +21,18 @@ body {
   min-height: 100vh;
 }
 
+@media (min-width: 768px) {
+  body {
+    display: flex;
+    justify-content: center;
+  }
+
+  #root {
+    width: 100%;
+    max-width: 375px;
+  }
+}
+
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
