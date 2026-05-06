@@ -1,6 +1,6 @@
 # Project
 
-This is a small React + Vite app built for the Educase Assignment. It contains a welcome screen, login form, registration form, and a profile/account settings page.
+This is a small React + Vite app  It contains a welcome screen, login form, registration form, and a profile/account settings page.
 
 ## Features
 
